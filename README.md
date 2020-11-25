@@ -21,8 +21,8 @@
         
       <Category> Seeds
       
-        TobaccoSeedsPack, 								*, 2000, -1
-        CP_CannabisSeedsPackSkunk, 				*, 300, -1
-        CP_CannabisSeedsPackBlue, 				*, 500, -1
-        CP_CannabisSeedsPackKush, 				*, 750, -1
-        CP_CannabisSeedsPackStardawg, 		*, 1000, -1
+        TobaccoSeedsPack,               *, 2000, -1
+        CP_CannabisSeedsPackSkunk,      *, 300, -1
+        CP_CannabisSeedsPackBlue,       *, 500, -1
+        CP_CannabisSeedsPackKush,       *, 750, -1
+        CP_CannabisSeedsPackStardawg,   *, 1000, -1
