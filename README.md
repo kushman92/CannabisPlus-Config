@@ -4,13 +4,13 @@
     
       <Category> Cigarettes
       
-        CigarettePack_Chernamorka,         *,     -1,    600
-        CigarettePack_Merkur,              *,     -1,    600
-        CigarettePack_Partyzanka,          *,     -1,    600
-        CP_CigarettePack_CannabisSkunk,    *,     100,    50
-        CP_CigarettePack_CannabisBlue,     *,     150,    75
-        CP_CigarettePack_CannabisKush,     *,     200,    100
-        CP_CigarettePack_CannabisStardawg, *,     250,    125
+        CigarettePack_Chernamorka,         *,     10,    2
+        CigarettePack_Merkur,              *,     12,    4
+        CigarettePack_Partyzanka,          *,     15,    5
+        CP_CigarettePack_CannabisSkunk,    *,     100,    5
+        CP_CigarettePack_CannabisBlue,     *,     150,    5
+        CP_CigarettePack_CannabisKush,     *,     200,    5
+        CP_CigarettePack_CannabisStardawg, *,     250,    5
         
       <Category> Bricks
       
@@ -21,8 +21,8 @@
         
       <Category> Seeds
       
-        TobaccoSeedsPack,               *, 2000, -1
-        CP_CannabisSeedsPackSkunk,      *, 300, -1
-        CP_CannabisSeedsPackBlue,       *, 500, -1
-        CP_CannabisSeedsPackKush,       *, 750, -1
-        CP_CannabisSeedsPackStardawg,   *, 1000, -1
+        TobaccoSeedsPack,               *, 200, -1
+        CP_CannabisSeedsPackSkunk,      *, 300, 150
+        CP_CannabisSeedsPackBlue,       *, 500, 150
+        CP_CannabisSeedsPackKush,       *, 750, 150
+        CP_CannabisSeedsPackStardawg,   *, 1000, 150
